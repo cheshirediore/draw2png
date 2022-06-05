@@ -1,7 +1,7 @@
 # Scaffolding
 scratch/*
-input/*jpg
-output/*png
+input/*
+output/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
